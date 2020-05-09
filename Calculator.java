@@ -66,7 +66,7 @@ public class Calculator implements ActionListener
         p.add(b1);p.add(b2);p.add(b3);p.add(b4);p.add(b5);p.add(b6);p.add(b7);p.add(b8);p.add(b9);
         p.add(b10);p.add(b11);p.add(b12);p.add(b13);p.add(b14);p.add(b15);p.add(b18);p.add(b19);p.add(b20);p.add(b21);p.add(b22);p.add(b16);p.add(b17);
         f.add(p);
-        f.setSize(300,300);
+        f.setSize(500,500);
         f.setVisible(true);
     }
     public void actionPerformed(ActionEvent e)
